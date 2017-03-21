@@ -1,0 +1,5 @@
+tcp_client.c and tcp_server.c are programs for half duplex communication from client to server
+tcp_client2.c and tcp_server2.c are programs for half duplex communication from server to client
+
+
+the ip address of server must be passes when running the client executable after compilation
